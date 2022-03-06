@@ -1,0 +1,18 @@
+
+Y
+java:S1854+"<Remove this useless assignment to local variable "kingdoms".(Á¾Åß8¡Ş²ò/
+E
+java:S2440+"(Remove this instantiation of "Kingdoms".(Á¾Åß8’¡Ş²ò/
+J
+java:S1481+"-Remove this unused "kingdoms" local variable.(Á¾Åß8’¡Ş²ò/
+E
+java:S11971"*Move the array designators [] to the type.(óÏ³şÿÿÿÿ
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(Î»…¦şÿÿÿÿ8‘ØöŸğ/
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(”ƒÆÿÿÿÿÿ8“Ï ğ/
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛËµ„üÿÿÿÿ
+f	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ğì‡
+f	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£èÅÑ
+2
+java:S1643"Use a StringBuilder instead.(îñÀÆ
+b
+java:S2095*"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÑÌ¼‡
